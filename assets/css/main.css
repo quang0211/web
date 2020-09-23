@@ -136,8 +136,10 @@
 .header__navbar-item,
 .header__navbar-item-link,
 .header__navbar-icon-link {
+    color: var(--whitle-color);
     display: inline-flex;
     align-items: center;
+    text-decoration: none;
 }
 .header__navbar-title--no-pointer {
     cursor: text;
